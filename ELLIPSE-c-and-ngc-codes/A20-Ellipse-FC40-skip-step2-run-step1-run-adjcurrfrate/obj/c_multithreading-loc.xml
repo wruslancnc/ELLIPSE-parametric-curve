@@ -1,10 +1,17 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file>/home/wruslan/WOM-WRY-UMP-PhD/A20-Ellipse-FC20-skip-step2-run-step1-run-adjcurrfrate/c_multithreading.gpr</vfs_file>
+    <vfs_file>/home/wruslan/github/wruslancnc/ELLIPSE-parametric-curve/ELLIPSE-c-and-ngc-codes/A20-Ellipse-FC40-skip-step2-run-step1-run-adjcurrfrate/c_multithreading.gpr</vfs_file>
     <file_marker current="true" column=" 1" line=" 1" >
-      <vfs_project>/home/wruslan/WOM-WRY-UMP-PhD/A20-Ellipse-FC20-skip-step2-run-step1-run-adjcurrfrate/c_multithreading.gpr</vfs_project>
-      <vfs_file>/home/wruslan/WOM-WRY-UMP-PhD/A20-Ellipse-FC20-skip-step2-run-step1-run-adjcurrfrate/src/main_c_multithreading.c</vfs_file>
+      <vfs_project>/home/wruslan/github/wruslancnc/ELLIPSE-parametric-curve/ELLIPSE-c-and-ngc-codes/A20-Ellipse-FC40-skip-step2-run-step1-run-adjcurrfrate/c_multithreading.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github/wruslancnc/ELLIPSE-parametric-curve/ELLIPSE-c-and-ngc-codes/A20-Ellipse-FC40-skip-step2-run-step1-run-adjcurrfrate/src/main_c_multithreading.c</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >/home/wruslan/WOM-WRY-UMP-PhD/A20-Ellipse-FC20-skip-step2-run-step1-run-adjcurrfrate/c_multithreading.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >/home/wruslan/WOM-WRY-UMP-PhD/A20-Ellipse-FC20-skip-step2-run-step1-run-adjcurrfrate/c_multithreading.gpr</vfs_project>
+      <vfs_file >/home/wruslan/WOM-WRY-UMP-PhD/A20-Ellipse-FC20-skip-step2-run-step1-run-adjcurrfrate/src/main_c_multithreading.c</vfs_file>
     </file_marker>
   </Project>
   <Project >
